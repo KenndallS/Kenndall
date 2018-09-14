@@ -1,0 +1,54 @@
+/*General*/
+.navbar{
+	text-align: center;
+	font-family: Open sans;
+}
+
+.jumbotron{
+	font-family: Open sans;
+}
+
+head{
+	background-color: #73C6B6;
+}
+
+/*PC Master Race*/
+.pc{
+	text-align: center;
+	font-family: Open sans;
+	padding: 30px;
+}
+
+.historia{
+	text-align: center;
+	font-family: Open sans;
+	padding: 30px;
+}
+
+p{
+	font-family: Open sans;
+	padding: 30px;
+}
+
+.lista{
+	background: #cce5ff;
+	 margin: 5px;
+}
+
+/*PlayStation*/
+.PS{
+	text-align: center;
+	font-family: Open sans;
+	padding: 30px;
+}
+
+#p1{
+	font-family: Open sans;
+	text-align: center;
+}
+
+.historia{
+	text-align: center;
+	font-family: Open sans;
+	padding: 30px;
+}
